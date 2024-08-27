@@ -17,9 +17,10 @@ body{
     display: flex;
     justify-content: space-around;
     text-align: center;
-    background-color: #ddebf8;
+    background-color: gray;
     color: black;
-    border-bottom: solid #d8cefe 6px;
+    border-bottom: solid black 6px;
+    border-right: solid black 6px;
 
 }
 
